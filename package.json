@@ -1,0 +1,12 @@
+{
+  "name": "clicity-backend",
+  "version": "1.0.0",
+  "description": "Backend de Clicity: Gemini (gratis) como motor principal, Claude como respaldo de pago",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
